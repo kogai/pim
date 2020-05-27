@@ -1,0 +1,7 @@
+type;code;label-ja_JP;group;unique;useable_as_grid_filter;allowed_extensions;metric_family;default_metric_unit;reference_data_name;localizable;scopable
+pim_catalog_identifier;identifier;商品ID;other;1;1;;;;;0;0
+pim_catalog_text;name;商品名;other;0;1;;;;;1;0
+pim_catalog_textarea;description;説明;other;0;1;;;;;1;0
+pim_catalog_text;price;価格;other;0;1;;;;;0;0
+pim_catalog_image;image;商品画像;other;0;1;;;;;0;0
+pim_catalog_text;link;商品ページ;other;0;1;;;;;0;0
